@@ -2,7 +2,7 @@ import React from 'react'
 import { Route, Routes } from 'react-router-dom'
 
 import PostsList from '../features/posts/PostsList'
-import PostDetails from '../features/posts/Post'
+import PostDetails from '../features/posts/PostDetails'
 
 function AppRoutes() {
     return(

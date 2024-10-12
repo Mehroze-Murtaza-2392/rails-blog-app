@@ -26,7 +26,7 @@ function PostDetails() {
         fetchCurrentPost()
     }, [id])
 
-    if (load) return <h2>Loading ...</h2>
+    if (loading) return <h2>Loading ...</h2>
 
     return (
         <>
