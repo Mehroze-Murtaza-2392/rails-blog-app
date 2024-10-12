@@ -11,4 +11,4 @@ function NavBar() {
     )
 }
 
-export default nab
+export default NavBar
